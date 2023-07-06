@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JarolCL3</string>
+    <string name="detalle_producto">Detalle Producto</string>
+    <string name="nombre">Nombre :</string>
+    <string name="stock">Stock:</string>
+    <string name="codigo">Codigo :</string>
+    <string name="descripcion">Descripcion :</string>
+    <string name="registro_producto">Registro Producto</string>
+    <string name="descripcionnn">Descripcion</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="registrar">Registrar</string>
+</resources>
